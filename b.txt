@@ -9,3 +9,4 @@ update to serve
 22222222222222222222
 update by local
 jiuhsi buxiangxin
+手动更新
